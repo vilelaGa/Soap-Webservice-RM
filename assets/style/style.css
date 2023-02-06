@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    background-color: #1f3668;
+}
+
+.img-logo {
+    border-radius: 12px;
+}
+
+#baixar {
+    /* display: none; */
+}
